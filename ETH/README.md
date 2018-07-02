@@ -1,6 +1,5 @@
 
-
-# ETH
+# A simple EOS note
 
 ## 基础
 
