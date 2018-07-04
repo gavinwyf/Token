@@ -256,7 +256,7 @@ IPC接口默认启用，并公开Geth支持的所有API，而HTTP和WS接口需�
 ```
 
 参考：
-- [geth中文介绍](http://www.blockcode.org/archives/201)
+- [geth](https://github.com/ethereum/go-ethereum/wiki/geth)
 - https://learnblockchain.cn/2017/12/01/geth_cmd_short/
 - https://blog.csdn.net/chenyufeng1991/article/details/53458175
 
